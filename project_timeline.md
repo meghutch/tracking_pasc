@@ -7,5 +7,5 @@
 - [ ] Week 5, July 18 - Model training / Analysis 
 - [ ] Week 6, July 25 - Model training / Analysis
 - [ ] Week 7, Aug 1 - Finalize poster
-- [ ] Week 8, Aug 12 - Wrap up / Symposium 
+- [ ] Week 8, Aug 8 - Wrap up / Symposium 
 
