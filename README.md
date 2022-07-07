@@ -15,6 +15,12 @@
 * https://www.pinecone.io/learn/bertopic/
 * https://towardsdatascience.com/interactive-topic-modeling-with-bertopic-1ea55e7d73d8
 
+**Hydration using Desktop App**
+* [Link to the Guiding Website on using Hydrator](https://towardsdatascience.com/learn-how-to-easily-hydrate-tweets-a0f393ed340e) -
+* [Link to Hydrator GitHub repository for downloading](https://github.com/DocNow/hydrator)
+
 ### Code Examples
 * [Example dynamic topic modeling code](https://github.com/meghutch/tracking_pasc/tree/main/DTM-old%20code) -
 *  [DTM.ipynb](https://github.com/meghutch/tracking_pasc/blob/main/DTM-old%20code/DTM.ipynb) is an example with covid tweets
+
+
