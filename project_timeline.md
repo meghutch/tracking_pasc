@@ -5,7 +5,7 @@
 - [x] Week 1, June 20 - Orientation
 - [x] Week 2, June 27 - Download data / Begin data pre-processing
 - [X] Week 3, July 4 - Pre-processing (hydration + tokenization) / Prelim data analysis (descriptives)
-- [ ] Week 4, July 11 - Prelim data analysis (descriptives) / Model training / Hyperparameter tuning
+- [ ] Week 4, July 11 - Pre-processing / Prelim data analysis (descriptives) / Model training / Hyperparameter tuning
 - [ ] Week 5, July 18 - Model training / Analysis 
 - [ ] Week 6, July 25 - Model training / Analysis
 - [ ] Week 7, Aug 1 - Finalize poster
