@@ -6,9 +6,9 @@ The following steps were performed on Quest to load both libraries into a new vi
 
 ##
 
-1. module load python/anaconda3.6
+1. `conda create --name bert python=3.8`
 
-2. `conda create --name bert-topic python=3.9`
+2. `conda activate bert-topic`
 
 3. `pip install bertopic`
 
