@@ -8,7 +8,7 @@ The following steps were performed on Quest to load both libraries into a new vi
 
 1. `conda create --name bert python=3.8`
 
-2. `conda activate bert-topic`
+2. `conda activate bert`
 
 3. `pip install bertopic`
 
