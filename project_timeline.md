@@ -1,5 +1,12 @@
 # Project Road Map
 
+## To Dos:
+
+- [ ] Implement & Evaluate coherence / diversity score
+- [ ] Evaluate initial 'local' topics 
+- [ ] Implement dynamic topic modeling (determine time periods - every two months?)
+- [ ] [Guided topic modeling?](https://maartengr.github.io/BERTopic/getting_started/guided/guided.html) 
+
 ## Anish
 
 - [x] Week 1, June 20 - Orientation
