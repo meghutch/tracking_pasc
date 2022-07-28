@@ -38,7 +38,7 @@ These packakes overide the pytorch/cuda modules, thus, we want to load those las
 
 ### install numpy
 
-`pip install numpy==1.22`
+`pip install numpy==1.20.3`
 
 ### check pytorch version
 
@@ -49,3 +49,9 @@ These packakes overide the pytorch/cuda modules, thus, we want to load those las
 `torch.__version__`
 
 `print(torch.version.cuda)`
+
+## 
+
+### Notes
+
+`numpy==1.20.3` seems required to prevent conflicts with some of the neccessary BERTopic packages: https://github.com/lmcinnes/pynndescent/issues/163
