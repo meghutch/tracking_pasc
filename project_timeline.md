@@ -14,9 +14,9 @@
 - [X] Week 3, July 4 - Pre-processing (hydration + tokenization) / Prelim data analysis (descriptives)
 - [X] Week 4, July 11 - Pre-processing / Prelim data analysis (descriptives) / Model training / Hyperparameter tuning
 - [X] Week 5, July 18 - Model training / Analysis / hydrating tweets
-- [ ] Week 6, July 25 - Model training / Analysis / hydrating tweets
-- [ ] Week 7, Aug 1 - Finalize Analysis / poster
-- [ ] Week 8, Aug 8 - Wrap up / Symposium 
+- [X] Week 6, July 25 - Model training / Analysis / hydrating tweets
+- [X] Week 7, Aug 1 - Finalize Analysis / poster
+- [X] Week 8, Aug 8 - Wrap up / Symposium 
 
 ## Meghan
 
@@ -25,7 +25,7 @@
 - [X] Week 3, July 4 - Begin Hydrating random sample of 10 million tweets
 - [X] Week 4, July 11 - Continue hydrating tweets / lecture on topic modeling / word embeddings
 - [X] Week 5, July 18 - Reviewing data cleaning / Model training debugging / hydrating tweets
-- [ ] Week 6, July 25 - Model training / Analysis / hydrating tweets
-- [ ] Week 7, Aug 1 - Finalize Analysis / poster
-- [ ] Week 8, Aug 8 - Wrap up / Symposium 
+- [X] Week 6, July 25 - Model training / Analysis / hydrating tweets
+- [X] Week 7, Aug 1 - Finalize Analysis / poster
+- [X] Week 8, Aug 8 - Wrap up / Symposium 
 
