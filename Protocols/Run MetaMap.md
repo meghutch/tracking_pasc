@@ -5,8 +5,8 @@
 > `cd /projects/p31499/public_mm`
 
 **Notes:** 
-* Meghan copied the MetaMap installation from Dr. Luo's class allocation `/projects/e30766/public_metamap/`
-* It looks like the files in this directory are based in this directory (e.g: many of the associated files explictely indicate the `/projects/e37066/` directory
+* Meghan copied the MetaMap installation from Dr. Luo's class allocation `/projects/e30766/public_mm/`
+* It looks like the files in this directory are based in this directory (e.g: many of the associated files explictely indicate the `/projects/e37066/public_mm` directory
 * This is important to keep in mind in case that directory ever expires. Ideally, quest team can help us set this directory up on our project allocation
 
 2. Load `module load python/anaconda3.6`
