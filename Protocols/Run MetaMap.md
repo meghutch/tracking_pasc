@@ -11,20 +11,26 @@
 
 2. Load `module load python/anaconda3.6`
 
-3. Launch a jupyter notebook on the port that is connected to MetaMap (port=1795)
+3. Run in the following in the terminal:
+
+> `! ./bin/skrmedpostctl start`
+
+> `! ./bin/wsdserverctl start`
+
+4. Launch a jupyter notebook on the port that is connected to MetaMap (port=1795)
 
 > `jupyter notebook --no-browser --port=1795`
 
 *Note: An error will raise and the port will autmatically connect to port=1796. This is okay*
 
-4. On your local terminal, SSH onto the quest server to use the jupyter notebook in the browser.
+5. On your local terminal, SSH onto the quest server to use the jupyter notebook in the browser.
 
 > `ssh -N -f -L localhost:1796:localhost:1796 mrh1996@quest.it.northwestern.edu`
 
-5. > localhost:1795
+6. `localhost:1795`
 
 **Note:**
 
 It's a bit unintuitive, but I was able to get to my notebook with localhost:1795, even though in the ssh we are specifying 1796
 
-6. Navigate to the notebook: `MetaMap.ipynb`
+7. Navigate to the notebook: `MetaMap.ipynb`
