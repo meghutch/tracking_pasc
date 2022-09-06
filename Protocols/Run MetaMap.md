@@ -17,8 +17,14 @@
 
 *Note: An error will raise and the port will autmatically connect to port=1796. This is okay*
 
-4. On your local terminal, SSH onto the quest server to use the jupyter notebook in the browser. Here we will specify `localhost:1795`
+4. On your local terminal, SSH onto the quest server to use the jupyter notebook in the browser.
 
-> `ssh -N -f -L localhost:1795:localhost:1796 mrh1996@quest.it.northwestern.edu`
+> `ssh -N -f -L localhost:1796:localhost:1796 mrh1996@quest.it.northwestern.edu`
 
-5. Navigate to the notebook: `MetaMap.ipynb`
+5. > localhost:1795
+
+**Note:**
+
+It's a bit unintuitive, but I was able to get to my notebook with localhost:1795, even though in the ssh we are specifying 1796
+
+6. Navigate to the notebook: `MetaMap.ipynb`
